@@ -18,7 +18,7 @@ La animación anterior presenta la solución para la ecuación de
 [reacción-difusión](https://en.wikipedia.org/wiki/Reaction%E2%80%93diffusion_system)
 para el modelo de Gray-Scott sobre un dominio periódico. La solución fue
 encontrada con el método de diferencias finitas con esquema explícito de
-integración en el tiempo ([ver código](./notebooks/3_ecuaciones_parabolicas/04_reac_diff_fd.py)).
+integración en el tiempo ([ver código](./notebooks/3_problemas_transitorios/04_reac_diff_fd.py)).
 
 ## Instrucciones de instalación
 
